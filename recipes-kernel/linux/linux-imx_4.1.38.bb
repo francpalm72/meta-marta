@@ -15,7 +15,7 @@ LOCALVERSION ?= ""
 SCMVERSION ?= "y"
 SRCBRANCH ?= ""
 
-SRCREV = "17e95ecbdc3e00b9c600f57115a29f32247c380f"
+SRCREV = "e6d31e2ee68b856f4e0181c61d8ffeac350fb55b"
 SRC_URI = "git://github.com/francpalm72/linux-imx_4.1.git;protocol=git; \
 	   file://defconfig"
 
